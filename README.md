@@ -2,7 +2,7 @@
 The dashboard tracks commodity prices across Indian markets, segmented by state, district, and variety. It records minimum, maximum, and modal prices with arrival dates, offering monthly insights for regional market analysis and price trend forecasting.
 This project is an interactive Excel dashboard created to analyze and visualize agricultural commodity price data. It provides powerful insights through dynamic charts, key performance indicators (KPIs), and slicers, making it easier to explore and interpret market trends.
 
-![Dashboard Screenshot](Screenshot (102).png)
+![Dashboard Screenshot]((https://github.com/genjitarunkumar/DASHBOARD/blob/main/Screenshot%20(102).png))
 
 🧾 Overview
 The Excel Dashboard transforms raw agricultural market data into a clean, visually rich format that supports quick decision-making. This is especially useful for users looking to understand commodity price fluctuations, spot regional differences, and monitor overall trends without analyzing raw spreadsheets.
